@@ -14,7 +14,7 @@ function Kontrol(){
     } else if(t==i){
         count++;
         document.getElementById("span").innerHTML=count;
-        document.getElementById("sonuc").innerHTML="Tebrikler";
+        document.getElementById("sonuc").innerHTML="Tebrikler bildiniz";
     }
     
 }
